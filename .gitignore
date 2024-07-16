@@ -1,0 +1,22 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+/Assets/Meshes/Altered
+/Assets/Meshes/NeedAlterations
+/Assets
+/Assets/Mixamo/Paladin/Mesh/Paladin J Nordstrom.fbm/Paladin_diffuse.png
+/Config
+/Config/DefaultEditor.ini
+/Content
+/Platforms/HoloLens/Config
